@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (glsample14_MR-SAMPLE.vcxproj, glsample12_HMD_warp.vcxproj, glsample13_MRHMD.vcxproj, mrsample02_sidebyside.vcxproj, mrsample03_sidebyside_frustum.vcxproj, mrsample03_sidebyside_warp.vcxproj, mrsample01_start.vcxproj, mrsample06_wall.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  mrsample07_anaglyph.cpp
+  ProjWall.cpp
+  コードを生成中...
+  mrsample07_anaglyph.vcxproj -> K:\glsamples202X\Debug\mrsample07_anaglyph.exe

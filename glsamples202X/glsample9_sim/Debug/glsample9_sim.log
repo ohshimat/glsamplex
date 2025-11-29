@@ -1,0 +1,68 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (glsample9_sim.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  GLMetaseq.c
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(707,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(707,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1075,3): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1075,3):
+      プレースホルダーとそのパラメーターには 9 の可変個引数が必要ですが、10 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1156,3): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1156,3):
+      プレースホルダーとそのパラメーターには 3 の可変個引数が必要ですが、4 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1183,3): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1183,3):
+      プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、3 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1239,3): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1239,3):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1248,5): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1248,5):
+      プレースホルダーとそのパラメーターには 3 の可変個引数が必要ですが、4 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1252,5): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1252,5):
+      プレースホルダーとそのパラメーターには 4 の可変個引数が必要ですが、5 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1263,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1263,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1273,5): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1273,5):
+      プレースホルダーとそのパラメーターには 6 の可変個引数が必要ですが、7 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1281,5): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1281,5):
+      プレースホルダーとそのパラメーターには 8 の可変個引数が必要ですが、9 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1320,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1320,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1325,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1325,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1330,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1330,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1335,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1335,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1341,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1341,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1348,4): warning C4474: 'sscanf_s': 書式文字列に渡された引数の数が多すぎます
+      K:\glsamples202X\iCG_OpenGLKyozai\GLMetaseq.c(1348,4):
+      プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  
+  glsample9_random.cpp
+  glsample9_sim.vcxproj -> K:\glsamples202X\Debug\glsample9_random.exe

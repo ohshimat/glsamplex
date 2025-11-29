@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (glsample12_HMD_warp.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  glsample13_MRHMD.cpp
+  warptex.cpp
+  WebCam.cpp
+  コードを生成中...
+  glsample13_MRHMD.vcxproj -> K:\glsamples202X\Debug\glsample13_MRHMD.exe

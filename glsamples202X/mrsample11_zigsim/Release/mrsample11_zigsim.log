@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中間ディレクトリ (Release\) に別のプロジェクト (mrsample10_sphere.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Matrix.cpp
+F:\glsamples202X\iCG_OpenGLKyozai\Matrix.cpp(73,12): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  ezZigSim.cpp
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(38,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(65,30): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(95,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(115,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(137,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(156,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(213,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(264,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(314,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(364,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(419,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(459,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(496,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Shapes.cpp
+  mrsample11_zigsim.cpp
+F:\glsamples202X\iCG_OpenGLKyozai\mrsample11_zigsim.cpp(109,24): warning C4101: 'ident': ローカル変数は 1 度も使われていません。
+F:\glsamples202X\iCG_OpenGLKyozai\mrsample11_zigsim.cpp(109,19): warning C4101: 'mab': ローカル変数は 1 度も使われていません。
+F:\glsamples202X\iCG_OpenGLKyozai\mrsample11_zigsim.cpp(108,12): warning C4101: 't': ローカル変数は 1 度も使われていません。
+F:\glsamples202X\iCG_OpenGLKyozai\mrsample11_zigsim.cpp(118,22): warning C4101: 'm': ローカル変数は 1 度も使われていません。
+  Vector.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+F:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(639): warning C4715: 'InvokeThread': 値を返さないコントロール パスがあります。
+  All 84 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  mrsample11_zigsim.vcxproj -> F:\glsamples202X\Release\mrsample11_zigsim.exe

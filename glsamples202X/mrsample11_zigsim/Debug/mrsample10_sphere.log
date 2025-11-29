@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (glsample6_shading.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Matrix.cpp
+E:\glsamples202X\iCG_OpenGLKyozai\Matrix.cpp(73,12): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  ezZigSim.cpp
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(38,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(58,30): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(88,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(108,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(130,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(149,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(206,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(257,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(307,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(357,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(396,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Shapes.cpp
+  mrsample10_sphere.cpp
+E:\glsamples202X\iCG_OpenGLKyozai\mrsample10_sphere.cpp(162,24): warning C4101: 'ident': ローカル変数は 1 度も使われていません。
+E:\glsamples202X\iCG_OpenGLKyozai\mrsample10_sphere.cpp(162,19): warning C4101: 'mab': ローカル変数は 1 度も使われていません。
+E:\glsamples202X\iCG_OpenGLKyozai\mrsample10_sphere.cpp(161,12): warning C4101: 't': ローカル変数は 1 度も使われていません。
+E:\glsamples202X\iCG_OpenGLKyozai\mrsample10_sphere.cpp(186,22): warning C4101: 'm': ローカル変数は 1 度も使われていません。
+  Vector.cpp
+  コードを生成中...
+E:\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(535,1): warning C4715: 'InvokeThread': 値を返さないコントロール パスがあります。
+  mrsample10_sphere.vcxproj -> E:\glsamples202X\Debug\mrsample10_sphere.exe

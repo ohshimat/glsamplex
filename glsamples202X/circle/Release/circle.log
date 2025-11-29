@@ -1,0 +1,9 @@
+﻿  circle.cpp
+  webmesh.cpp
+I:\glsamples202X\iCG_OpenGLKyozai\circle.cpp(30,11): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+I:\glsamples202X\iCG_OpenGLKyozai\circle.cpp(30,8): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  circle.vcxproj -> I:\glsamples202X\Release\circle.exe

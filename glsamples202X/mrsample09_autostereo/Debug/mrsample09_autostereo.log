@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (mrsample08_quadbuffer.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  mrsample09_autostereo.cpp
+  ProjWall.cpp
+  コードを生成中...
+  mrsample09_autostereo.vcxproj -> K:\glsamples202X\Debug\mrsample09_autostereo.exe

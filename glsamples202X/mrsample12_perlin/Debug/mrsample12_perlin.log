@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (glsample6_shading.vcxproj, mrsample10_sphere.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  mrsample12_perlin.cpp
+K:\glsamples202X\iCG_OpenGLKyozai\mrsample12_perlin.cpp(157,24): warning C4101: 'ident': ローカル変数は 1 度も使われていません。
+K:\glsamples202X\iCG_OpenGLKyozai\mrsample12_perlin.cpp(157,19): warning C4101: 'mab': ローカル変数は 1 度も使われていません。
+K:\glsamples202X\iCG_OpenGLKyozai\mrsample12_perlin.cpp(156,12): warning C4101: 't': ローカル変数は 1 度も使われていません。
+K:\glsamples202X\iCG_OpenGLKyozai\mrsample12_perlin.cpp(166,22): warning C4101: 'm': ローカル変数は 1 度も使われていません。
+  mrsample12_perlin.vcxproj -> K:\glsamples202X\Debug\mrsample12_perlin.exe

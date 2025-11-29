@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (glsample6_shading.vcxproj, mrsample10_sphere.vcxproj, mrsample12_perlin.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Matrix.cpp
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\Matrix.cpp(73,12): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+  ezZigSim.cpp
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(38,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(65,30): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(95,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(115,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(137,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(156,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(213,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(264,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(314,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(364,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(419,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(459,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(496,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mrsample13_perlin.cpp
+  perlinNoise.cpp
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\perlinNoise.cpp(57,11): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\perlinNoise.cpp(57,8): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\perlinNoise.cpp(87,11): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\perlinNoise.cpp(87,8): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+  Shapes.cpp
+  Vector.cpp
+  コードを生成中...
+C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\iCG_OpenGLKyozai\ezZigSim.cpp(639,1): warning C4715: 'InvokeThread': 値を返さないコントロール パスがあります。
+  mrsample13_perlin.vcxproj -> C:\Users\vruser_1\Desktop\Projects\glsample\glsamples202X\Debug\mrsample13_perlin.exe
