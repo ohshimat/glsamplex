@@ -1,0 +1,118 @@
+# Visual Studio / C++ .gitignore - recommended
+
+# --- OS ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Visual Studio user files ---
+.vs/
+*.suo
+#*.user
+*.userosscache
+*.sln.docstates
+
+# --- Visual Studio database / cache / temp files ---
+*.VC.db
+*.VC.opendb
+*.dbmdl
+*.pidb
+*.pdb
+*.opendb
+*.sdf
+
+# --- Visual Studio build output ---
+# Common folders for C/C++ projects
+[Bb]in/
+[Oo]bj/
+#Debug*/
+#Release*/
+#x64/Release*/
+#x64/Debug*/
+#x86/Release*/
+#x86/Debug*/
+
+# Visual C++ intermediate files
+#*.obj
+*.o
+*.lo
+*.lst
+*.ilk
+*.map
+*.exp
+#*.lib
+#*.a
+
+# Executables and dynamic libs
+#*.exe
+#*.dll
+#*.so
+*.dylib
+
+# Linker and compiler files
+*.idb
+*.ipdb
+*.tlog
+*.lastbuildstate
+
+# Precompiled headers / compiled cache
+*.pch
+*.gch
+*.pch.*
+*.ipch
+
+# Generated code and temporary files
+*.iobj
+*.iobj.*
+*.iopt
+*.rsp
+*.sbr
+*.ncb
+*.suo
+
+# --- CMake / build system ---
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+build/
+cmake-build-*/
+#Makefile
+**/build/
+
+# --- Package managers / caches ---
+.vcpkg/
+packages/
+.nuget/
+# node/npm if applicable
+node_modules/
+
+# --- Test / tooling output ---
+TestResults/
+coverage/
+#*.log
+
+# --- Editor / IDE ---
+.vscode/
+*.code-workspace
+
+# --- Secrets / env ---
+.env
+*.env
+*.key
+*.cer
+*.crt
+*.pem
+*.p12
+secrets.json
+
+# --- Misc ---
+*.tmp
+*.temp
+*.bak
+*.backup
+~$*
+*.swp
+
+# End of .gitignore
