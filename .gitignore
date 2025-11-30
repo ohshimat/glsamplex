@@ -26,8 +26,8 @@ Desktop.ini
 
 # --- Visual Studio build output ---
 # Common folders for C/C++ projects
-[Bb]in/
-[Oo]bj/
+#[Bb]in/
+#[Oo]bj/
 #Debug*/
 #Release*/
 #x64/Release*/
