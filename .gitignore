@@ -12,6 +12,8 @@ Desktop.ini
 #*.user
 *.userosscache
 *.sln.docstates
+*.ipch
+*.db
 
 # --- Visual Studio database / cache / temp files ---
 *.VC.db
